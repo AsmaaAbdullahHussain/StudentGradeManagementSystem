@@ -24,7 +24,7 @@ This project highlights proficiency in:
 - **Problem-Solving**: Implementing logic for student grading and analysis.
 - **Console-Based UI**: Creating an interactive user experience using keyboard inputs.
 
-## some screenshots of the program in action
+## Some screenshots of the program in action
 <img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/1.png" width="900" hight="500">
 <img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/2.png" width="900" hight="500">
 <img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/3.png" width="900" hight="500">

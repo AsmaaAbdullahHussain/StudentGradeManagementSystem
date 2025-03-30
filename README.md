@@ -25,8 +25,14 @@ This project highlights proficiency in:
 - **Console-Based UI**: Creating an interactive user experience using keyboard inputs.
 
 ## some screenshots of the program in action
-<img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/edit/master/1.png" width="500" hight="300">
-  
+<img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/1.png" width="900" hight="500">
+<img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/2.png" width="900" hight="500">
+<img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/3.png" width="900" hight="500">
+<img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/4.png" width="900" hight="500">
+<img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/5.png" width="900" hight="500">
+<img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/6.png" width="900" hight="500">
+<img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/7.png" width="900" hight="500">
+
 ## How to Use
 1. **Compile the Program:** Use a C compiler like GCC or Visual Studio.
 2. **Run the Executable:** Execute the compiled file.

@@ -16,13 +16,6 @@ The **Student Grade Management System** is a console-based application written i
 ## Technologies Used
 - **C Programming Language**: Core logic implementation.
 - **Windows.h**: Console color manipulation for improved user experience.
-  
-## Skills Demonstrated
-This project highlights proficiency in:
-- **C Programming**: Memory management, pointers, and structures.
-- **Data Structures**: Dynamic memory allocation for managing students and subjects.
-- **Problem-Solving**: Implementing logic for student grading and analysis.
-- **Console-Based UI**: Creating an interactive user experience using keyboard inputs.
 
 ## Some screenshots of the program in action
 <img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/1.png" width="900" hight="500">
@@ -32,6 +25,13 @@ This project highlights proficiency in:
 <img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/5.png" width="900" hight="500">
 <img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/6.png" width="900" hight="500">
 <img src="https://github.com/AsmaaAbdullahHussain/StudentGradeManagementSystem/blob/master/7.png" width="900" hight="500">
+
+## Skills Demonstrated
+This project highlights proficiency in:
+- **C Programming**: Memory management, pointers, and structures.
+- **Data Structures**: Dynamic memory allocation for managing students and subjects.
+- **Problem-Solving**: Implementing logic for student grading and analysis.
+- **Console-Based UI**: Creating an interactive user experience using keyboard inputs.
 
 ## How to Use
 1. **Compile the Program:** Use a C compiler like GCC or Visual Studio.
